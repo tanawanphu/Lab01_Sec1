@@ -1,58 +1,62 @@
 export const sculptureList = [
-    {
-        Code: '1',
-        Title: 'ศาสตร์มืดแห่งการชักใยคน',
-        Cover: 'https://storage.naiin.com/system/application/bookstore/resource/product/202407/618115/1000273698_front_XXL.jpg?imgname=%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%B7%E0%B8%94%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%A2%E0%B8%84%E0%B8%99',
-        // Description: '"คุณเคยคิดแบบนี้บ้างไหม  “ฉันต้องการพัฒนาทักษะการสื่อสารและเข้ากับผู้คนได้ดีขึ้น”  “ฉันต้องการเพิ่มยอดขาย”  “ฉันอยากทำให้คนอื่นๆ ทำตามที่ฉันต้องการ” ถึงแม้จะอ่านหนังสือเกี่ยวกับการพูดมามากมาย แต่ก็ยังไม่ประสบความสำเร็จในการโน้มน้าวใจอีกฝ่ายเสียที  เหตุผลก็คือมี “บางอย่าง” ที่หนังสือเหล่านั้นไม่ได้บอกเรา  ซึ่งก็คือ “เกราะป้องกันใจของคู่สนทนายังไม่ได้ถูกทำลายลง” นั่นเอง ในที่นี้ เกราะป้องกันใจ  หมายถึง “ความระแวดระวัง” ที่มนุษย์ทุกคนมีอยู่โดยไม่รู้ตัว และความระแวงนี้เปรียบเสมือนกลอนที่ลง ล็อกประตูหัวใจและปกป้องมันไว้จากคนอื่น  ดังนั้นเมื่ออีกฝ่ายอยู่ในภาวะป้องกันตัว ไม่ว่าคุณจะพูดอะไรก็ไม่มีใครฟังหรือเชื่อคุณ ในทางกลับกัน คนที่คนรอบข้างชื่นชอบ คนที่เก่งเรื่องการขาย คนที่ใครๆ ก็คลั่งไคล้ คนที่โน้มน้าวใจผู้อื่นเก่ง คนที่มีวาทศิลป์ในการพูด  คนเหล่านี้จะมีความสามารถในการทำลาย “เกราะป้องกันใจ” ของอีกฝ่าย  เมื่อพวกเขาทลายเกราะที่อีกฝ่ายสร้างขึ้นและเข้าถึงหัวใจได้ การควบคุมจิตใจและการกระทำของอีกฝ่ายก็จะเป็นเรื่องง่าย เล่มนี้จะมาแนะนำเทคนิคสลาย “เกราะป้องกันใจ” ของผู้อื่น ซึ่งไม่เคยมีใครเปิดเผยมาก่อน  ถ้าคุณทลายเกราะป้องกันแล้วเข้าไปนั่งในหัวใจผู้อื่นได้ ทุกอย่างจะเป็นไปตามที่คุณปรารถนา',
-        Category: 'หมวดหมู่: จิตวิทยา การพัฒนาตัวเอง , การพัฒนาตัวเอง how to',
-        Author: 'ผู้เขียน: Dr.Hiro',
-        Publishing: 'สำนักพิมพ์: อมรินทร์ How to',
-        Price: '247.50 บาท',
-        href: 'https://www.naiin.com/product/detail/618115'
-      },
-{
-    Code: '2',
-    Title: 'จิตวิทยาสายดาร์ก',
-    Cover: 'https://storage.naiin.com/system/application/bookstore/resource/product/202304/577274/1000260516_front_XXL.jpg?imgname=%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81',
-    // Description: ' Dr. Hiro  เคยเป็นนักขายที่ล้มเหลว  ขายอะไรก็ไม่มีใครซื้อแต่แล้ววันหนึ่งขณะกำลังดูข่าว  เขาก็นึกขึ้นได้ว่า“ในโลกเรามีลัทธิที่ขายของไม่น่าเชื่อถือได้ในราคาแพงลิ่วแถมยังทำให้สาวกยอมทุ่มบริจาคทรัพย์สินจนหมดตัวแล้วทำไมผมถึงขายไม่ออกล่ะ?”เขาจึงเริ่มศึกษาเทคนิคเหล่านั้นอย่างจริงจังอ่านหนังสือทุกเล่มเกี่ยวกับการล้างสมองที่มีในท้องตลาดแล้วเอาไปปรับใช้จนกลายเป็นนักขายระดับท็อปของญี่ปุ่นนั่นคือที่มาของ  “จิตวิทยาสายดาร์ก”พบกับเทคนิคทางจิตวิทยาที่ช่วยให้คุณใช้คำพูดควบคุมจิตใจคนทำให้พวกเขาคล้อยตามและทำอย่างที่คุณต้องการโดยไม่รู้ตัว',
-    Category: 'หมวดหมู่: จิตวิทยา การพัฒนาตัวเอง , การพัฒนาตัวเอง how to',
-    Author: 'ผู้เขียน: Dr.Hiro',
-    Publishing: 'สำนักพิมพ์: วีเลิร์น (WeLearn)',
-    Price: '225.00 บาท',
-    href: 'https://www.naiin.com/product/detail/577274'
- },
- {
-    Code: '3',
-    Title: 'โลกจะยิ้มให้เธอ ในวันที่เธอยิ้มให้ตัวเอง',
-    Cover: 'https://storage.naiin.com/system/application/bookstore/resource/product/202408/619415/1000274452_front_XXL.jpg?imgname=%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%88%E0%B8%B0%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%98%E0%B8%AD-%E0%B9%83%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87',
-    // Description: '',
-    Category: 'หมวดหมู่: จิตวิทยา การพัฒนาตัวเอง , การพัฒนาตัวเอง how to',
-    Author: 'ผู้เขียน: ทำเรื่องเล่นให้เป็นเรื่องใหญ่',
-    Publishing: 'สำนักพิมพ์: DOT',
-    Price: '225.00 บาท',
-    href: 'https://www.naiin.com/product/detail/618115'
- },
- {
-    Code: '4',
-    Title: 'คดีหลอนลิฟต์ซ่อนศพ',
-    Cover: 'https://storage.naiin.com/system/application/bookstore/resource/product/202407/616262/1000273245_front_XXL.jpg?imgname=%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%9F%E0%B8%95%E0%B9%8C%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A8%E0%B8%9E',
-    // Description: '',
-    Category: 'หมวดหมู่: นิยาย , นิยายสืบสวนสอบสวน นิยายลี้ลับ',
-    Author: 'ผู้เขียน: ภาคินัย',
-    Publishing: 'สำนักพิมพ์: prism publishing , ปริซึม',
-    Price: '292.50 บาท',
-    href: 'https://www.naiin.com/product/detail/616262'
- },
- {
-    Code: '5',
-    Title: 'ศพใต้เตียง',
-    Cover: 'https://storage.naiin.com/system/application/bookstore/resource/product/202407/616263/1000273244_front_XXL.jpg?imgname=%E0%B8%A8%E0%B8%9E%E0%B9%83%E0%B8%95%E0%B9%89%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%87',
-    // Description: '',
-    Category: 'หมวดหมู่: นิยาย , นิยายสืบสวนสอบสวน นิยายลี้ลับ',
-    Author: 'ผู้เขียน: สรจักร',
-    Publishing: 'สำนักพิมพ์: prism publishing , ปริซึม',
-    Price: '229.50 บาท',
-    href: 'https://www.naiin.com/product/detail/618115'
- }
-
-];
+   {
+     Code: '1',
+     Title: 'ศาสตร์มืดแห่งการชักใยคน',
+     Cover: 'https://storage.naiin.com/system/application/bookstore/resource/product/202407/618115/1000273698_front_XXL.jpg',
+     Category: 'จิตวิทยา การพัฒนาตัวเอง',
+     Author: 'Dr.Hiro',
+     Publishing: 'อมรินทร์ How to',
+     Price: '247.50 บาท',
+     href: 'https://www.naiin.com/product/detail/618115',
+     Bestseller: true,
+     Recommended: true
+   },
+   {
+     Code: '2',
+     Title: 'จิตวิทยาสายดาร์ก',
+     Cover: 'https://storage.naiin.com/system/application/bookstore/resource/product/202304/577274/1000260516_front_XXL.jpg',
+     Category: 'จิตวิทยา การพัฒนาตัวเอง',
+     Author: 'Dr.Hiro',
+     Publishing: 'วีเลิร์น (WeLearn)',
+     Price: '225.00 บาท',
+     href: 'https://www.naiin.com/product/detail/577274',
+     Bestseller: true,
+     Recommended: false
+   },
+   {
+     Code: '3',
+     Title: 'โลกจะยิ้มให้เธอ ในวันที่เธอยิ้มให้ตัวเอง',
+     Cover: 'https://storage.naiin.com/system/application/bookstore/resource/product/202408/619415/1000274452_front_XXL.jpg',
+     Category: 'จิตวิทยา การพัฒนาตัวเอง',
+     Author: 'ทำเรื่องเล่นให้เป็นเรื่องใหญ่',
+     Publishing: 'DOT',
+     Price: '225.00 บาท',
+     href: 'https://www.naiin.com/product/detail/618115',
+     Bestseller: false,
+     Recommended: true
+   },
+   {
+     Code: '4',
+     Title: 'คดีหลอนลิฟต์ซ่อนศพ',
+     Cover: 'https://storage.naiin.com/system/application/bookstore/resource/product/202407/616262/1000273245_front_XXL.jpg',
+     Category: 'นิยายสืบสวนสอบสวน นิยายลี้ลับ',
+     Author: 'ภาคินัย',
+     Publishing: 'prism publishing',
+     Price: '292.50 บาท',
+     href: 'https://www.naiin.com/product/detail/616262',
+     Bestseller: false,
+     Recommended: false
+   },
+   {
+     Code: '5',
+     Title: 'ศพใต้เตียง',
+     Cover: 'https://storage.naiin.com/system/application/bookstore/resource/product/202407/616263/1000273244_front_XXL.jpg',
+     Category: 'นิยายสืบสวนสอบสวน นิยายลี้ลับ',
+     Author: 'สรจักร',
+     Publishing: 'prism publishing',
+     Price: '229.50 บาท',
+     href: 'https://www.naiin.com/product/detail/618115',
+     Bestseller: true,
+     Recommended: true
+   }
+ ];
